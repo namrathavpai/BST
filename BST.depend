@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1610427820 source:c:\users\msis\documents\201046008\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"bst.h"
+	"queue.h"
+
+1610420584 c:\users\msis\documents\201046008\bst\bst.h
+	<stdint.h>
+
+1605507350 c:\users\msis\documents\201046008\queue\headers\queue.h
+	<stdint.h>
+	"appconst.h"
+
+1605250780 c:\users\msis\documents\201046008\queue\headers\appconst.h
+
+1610427367 source:c:\users\msis\documents\201046008\bst\st.c
+	<assert.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	"bst.h"
+	"queue.h"
+
+1610427478 c:\users\msis\documents\201046008\bst\queue.h
+	<stdint.h>
+	"appconst.h"
+
+1610427550 c:\users\msis\documents\201046008\bst\appconst.h
+
+1610427776 c:\users\msis\documents\201046008\bst\queue.c
+	<assert.h>
+	"queue.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+
+1610427776 source:c:\users\msis\documents\201046008\bst\queue.c
+	<assert.h>
+	"queue.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+
